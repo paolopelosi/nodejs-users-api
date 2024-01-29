@@ -19,7 +19,7 @@ export default class CreateUserController {
         dataNascimento,
       });
 
-      return res.status(201).send();
+      return res.status(201).send("Usuário cadastrado com sucesso.");
     } catch (error) {
       const message =
         error instanceof Error ? error.message : "Erro inesperado.";
