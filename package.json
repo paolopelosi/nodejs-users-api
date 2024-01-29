@@ -11,7 +11,9 @@
     "build": "tsc",
     "watch": "tsc -w",
     "dev": "npm-run-all --parallel start:dev watch",
-    "test": "jest"
+    "test:routes": "jest tests/integration/routes",
+    "test:services":  "jest tests/integration/services",
+    "test": "yarn test:routes && yarn test:services"
   },
   "author": "Paolo Pelosi",
   "license": "ISC",
