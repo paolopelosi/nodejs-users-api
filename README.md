@@ -13,8 +13,8 @@ Exemplo de API utilizando Node.js, Typescript e Express.
 
 ### Realizando requisições
 
-Para enviar requisições via Postman, pode ser importada a collection encontrada em `docs/NODEJS-USERS-API.postman_collection.json` ou
-<a id="raw-url" href="https://raw.githubusercontent.com/paolopelosi/nodejs-users-api/main/docs/NODEJS-USERS-API.postman_collection.json" download>clicando aqui para baixar a collection</a>
+Para enviar requisições via Postman, pode ser importada a collection encontrada em `docs/NODEJS-USERS-API.postman_collection.json` ou clicando
+[aqui](https://raw.githubusercontent.com/paolopelosi/nodejs-users-api/main/docs/NODEJS-USERS-API.postman_collection.json) com o botão direito do mouse e selecionando a opção `Salvar link como`.
 
 ### Testes
 
