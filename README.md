@@ -2,6 +2,11 @@
 
 Exemplo de API utilizando Node.js, Typescript e Express.
 
+## Requisitos
+
+- [Node.js](https://nodejs.org/en) na versão `18.18.0` ou superior.
+- Gerenciador de pacotes como [npm](https://www.npmjs.com/) ou [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable).
+
 ## Instruções de uso
 
 ### Iniciando o servidor:
